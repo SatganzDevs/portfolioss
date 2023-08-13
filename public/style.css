@@ -697,7 +697,7 @@ body.swal2-shown > [aria-hidden="true"] {
 }
 
 .modal-content {
-    background-color: #fff;
+    background-color: #fafafa;
     padding: 20px;
     border-radius: 10px;
     text-align: center;
@@ -735,7 +735,7 @@ body.swal2-shown > [aria-hidden="true"] {
 }
 
 .sound-item:hover {
-    background-color: #f0f0f0;
+    background-color: #27282a;
 }
 
 /* Additional styles for responsiveness */
@@ -744,6 +744,7 @@ body.swal2-shown > [aria-hidden="true"] {
         max-width: 90%;
     }
 }
+
 
 
 
